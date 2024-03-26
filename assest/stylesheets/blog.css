@@ -1,0 +1,219 @@
+
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    background-color: purple;
+    color: white;
+    position: fixed;
+    width: 100%;
+    font-weight: bold;
+}
+.top img{
+    width: 7opx;
+    height: 70px;
+    border-radius: 70%;
+}
+.top .pic{
+    display: flex;
+    flex-direction: row;
+    padding: 0 30px;
+}
+.h1{
+    display: flex;
+    flex-direction: row;
+    font-size: 35px;
+    padding: 10px 120px;
+}
+ .middle{
+    display: flex;
+    flex-direction: column;
+    padding: 150px 15px; 
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.about1{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 25px;
+}
+.member{
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 25px;
+}
+.member ul{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.adv{
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 25px;
+}
+.advtop{
+    padding-top: 25px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.adv ul{
+    padding-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; 
+    text-align: center;
+}
+.adv .ulone{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+    height: 120px;
+}
+.adv .ultwo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 30px;
+    height: 120px;
+}
+.adv .ulthree{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 30px;
+    height: 120px;
+} 
+ .ulfour{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 30px;
+    height: 120px;
+}   
+ .one{
+    width: 160px;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 35px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.two{
+    width: 150px;
+    background-color: burlywood;
+    padding: 17px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.three{
+    width: 160px;
+    background-color: burlywood;
+    padding: 16px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.four{
+    width: 160px;
+    background-color: purple;
+    color: white;
+    padding: 20px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.five{
+    width: 160px;
+    background-color: purple;
+    color: white;
+    padding: 35px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.six{
+    width: 160px;
+    background-color: burlywood;
+    padding: 20px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.seven{
+    width: 160px;
+    background-color: purple;
+    color: white;
+    padding: 20px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+
+}
+.eight{
+    width: 160px;
+    background-color: purple;
+    color: white;
+    padding: 20px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.nine{
+    width: 160px;
+    background-color: burlywood;
+    padding: 37px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.ten{
+    width: 160px;
+    background-color: burlywood;
+    padding: 20px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.eleven{
+    width: 160px;
+    background-color: purple;
+    color: white;
+    padding: 20px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.twelve{
+    width: 160px;
+    background-color: burlywood;
+    padding: 35px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.thirteen{
+    width: 160px;
+    background-color: burlywood;
+    padding: 40px 19px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.aisha{
+    background-image: url(../image/parentLogin.jpg);
+    height: 700px;
+    width: 100vw;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

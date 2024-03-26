@@ -1,0 +1,169 @@
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.colector{
+    padding: 30px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+.card1{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(218, 250, 218);
+    width: 600px;
+    height: 300px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px;
+
+}
+.card1 img{
+    width: 90px;
+    height: 90px;
+    border-radius: 70%;
+}
+.end button{
+    width: 130px;
+    height: 35px;
+    background-color: forestgreen;
+    font-size: 16px;
+    border: none;
+
+}
+.middle{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.h1{
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+    font-size: 30px;
+}
+.headname{
+    color: rgb(11, 59, 11);
+    font-weight: bold;
+}
+.submiddle{
+    display: flex;
+    flex-direction: row;
+    gap: 11px;
+}
+
+.card2{
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+    width: 600px;
+    height: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card2 img{
+    width: 90px;
+    height: 90px;
+    border-radius: 70%;
+}
+.card2 .headname{
+    color: navy;
+}
+.card2 button{
+    background-color: navy;
+    color: white;
+}
+.card2 button:hover{
+    background-color: rgb(189, 189, 250);
+    color: darkblue;
+}
+.card2 .call{
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+}
+.h2{
+    color: blue;
+}
+.card2 i{
+    color: blue;
+}
+
+.card3{
+width: 800px;
+height: 400px;
+background-color: rgb(236, 223, 248);
+display: flex;
+flex-direction: column;
+padding: 27px 0;
+margin: 40px 0;
+}
+.card3:hover{
+    background-color:gainsboro;
+    color: navy;
+}
+.card3 img{
+    width: 90px;
+    height: 90px;
+    border-radius: 70%;
+}
+.card3 .top{
+    display: flex;
+    justify-content: center;
+}
+.middle .h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 23px;
+    
+}
+.middle .h1 .headname{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    color: purple;
+}
+.card3 .middle .pgroup{
+    margin: 30px 100px;
+}
+.card3 .submiddle{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+}
+.card3 .call{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+.card3 .h2{
+    color:rebeccapurple;
+}
+.card3 i{
+    color: rebeccapurple;
+}
+.card3 .end{
+    display: flex;
+    justify-content: right;
+}
+.card3 a{
+    color:rgb(236, 223, 248);
+    text-decoration: none;
+}
+.card3 button{
+    border-radius: 90%;
+    background-color: purple;
+}
+
+.card3 .join{
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;tex
+}
